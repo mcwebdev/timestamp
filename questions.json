@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Explain event delegation",
+    "answer": "Event delegation is a technique of delegating events to a common ancestor rather than each individual descendant."
+  },
+  {
+    "question": "Describe closure",
+    "answer": "A closure is an inner function that has access to the outer (enclosing) function’s variables—scope chain."
+  }
+]
