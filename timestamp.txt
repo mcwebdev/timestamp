@@ -1,3 +1,3 @@
-Updated at: 2023-09-18T03:58:09.554Z
-Question: Explain Angular's dependency injection.
-Answer: Dependency Injection (DI) is a core feature of Angular, it's a design pattern in which a class requests dependencies from external sources rather than creating them.
+Updated at: 2023-09-18T15:58:08.805Z
+Question: What is a Directive in Angular?
+Answer: Directives are instructions in the DOM that tell Angular to attach a specific behavior to an element or even transform the element and its children.
