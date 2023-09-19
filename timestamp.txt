@@ -1,3 +1,3 @@
-Updated at: 2023-09-18T15:58:08.805Z
-Question: What is a Directive in Angular?
-Answer: Directives are instructions in the DOM that tell Angular to attach a specific behavior to an element or even transform the element and its children.
+Updated at: 2023-09-19T03:58:06.933Z
+Question: What is the difference between == and === in JavaScript?
+Answer: The == operator checks for equality in value while the === operator checks for equality in both value and type.
