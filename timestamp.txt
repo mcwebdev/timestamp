@@ -1,3 +1,3 @@
-Updated at: 2023-09-19T15:58:08.652Z
-Question: What is the difference between an Observable and a Promise?
-Answer: Observables are lazy event handlers that can handle multiple values over time. Promises are eager and handle a single event when an async operation succeeds or fails.
+Updated at: 2023-09-20T03:58:07.663Z
+Question: Describe Angular's change detection mechanism.
+Answer: Angular's change detection mechanism checks for changes in the data properties and updates the DOM whenever the value of a property changes.
