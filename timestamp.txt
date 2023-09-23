@@ -1,3 +1,3 @@
-Updated at: 2023-09-22T03:58:07.944Z
+Updated at: 2023-09-23T00:37:37.936Z
 Question: Explain the concept of prototypal inheritance.
 Answer: Prototypal inheritance is a mechanism in JavaScript where objects inherit properties and methods from other objects.
