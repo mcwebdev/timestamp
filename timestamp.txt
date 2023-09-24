@@ -1,3 +1,3 @@
-Updated at: 2023-09-23T03:58:13.478Z
-Question: Describe lazy loading in Angular.
-Answer: Lazy loading is a technique in Angular that allows you to load JavaScript components asynchronously when a specific route is activated.
+Updated at: 2023-09-24T03:58:08.578Z
+Question: Explain the concept of prototypal inheritance.
+Answer: Prototypal inheritance is a mechanism in JavaScript where objects inherit properties and methods from other objects.
