@@ -1,3 +1,3 @@
-Updated at: 2023-09-26T00:58:43.935Z
-Question: Describe Angular's change detection mechanism.
-Answer: Angular's change detection mechanism checks for changes in the data properties and updates the DOM whenever the value of a property changes.
+Updated at: 2023-09-26T00:58:46.859Z
+Question: What are Observables in Angular?
+Answer: Observables are a core part of Angular which provide support for passing messages between parts of your application.
