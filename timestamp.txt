@@ -1,3 +1,3 @@
-Updated at: 2023-09-27T03:58:09.542Z
-Question: What is the difference between == and === in JavaScript?
-Answer: The == operator checks for equality in value while the === operator checks for equality in both value and type.
+Updated at: 2023-09-27T20:51:09.092Z
+Question: What is Angular Universal?
+Answer: Angular Universal is a technology that allows server-side rendering for Angular apps, improving performance and facilitating SEO optimization.
