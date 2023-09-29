@@ -1,3 +1,3 @@
-Updated at: 2023-09-29T00:56:00.855Z
-Question: What is Angular Universal?
-Answer: Angular Universal is a technology that allows server-side rendering for Angular apps, improving performance and facilitating SEO optimization.
+Updated at: 2023-09-29T00:56:05.250Z
+Question: What is a promise in JavaScript?
+Answer: A promise is an object representing the eventual completion or failure of an asynchronous operation, and its resulting value.
