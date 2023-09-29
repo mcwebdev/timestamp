@@ -1,3 +1,3 @@
-Updated at: 2023-09-28T03:58:07.973Z
+Updated at: 2023-09-29T00:55:49.962Z
 Question: Explain AOT compilation in Angular.
 Answer: Ahead-of-Time (AOT) compilation converts your Angular HTML and TypeScript code into efficient JavaScript code before the browser downloads and runs it.
