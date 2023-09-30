@@ -1,3 +1,3 @@
-Updated at: 2023-09-29T03:58:07.551Z
-Question: What is a Component in Angular?
-Answer: Components are the fundamental building blocks of Angular applications. They control a patch of screen called a view.
+Updated at: 2023-09-30T03:58:10.811Z
+Question: Explain hoisting in JavaScript.
+Answer: Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their containing scope during the compile phase.
